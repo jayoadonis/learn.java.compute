@@ -1,0 +1,3 @@
+[submodule "learn.java.compute.calculator"]
+	path = learn.java.compute.calculator
+	url = https://github.com/jayoadonis/learn.java.compute.calculator.git
