@@ -1,3 +1,6 @@
 [submodule "learn.java.compute.calculator"]
 	path = learn.java.compute.calculator
 	url = https://github.com/jayoadonis/learn.java.compute.calculator.git
+[submodule "learn.java.compute.page-range"]
+	path = learn.java.compute.page-range
+	url = https://github.com/jayoadonis/learn.java.compute.page_range.git
